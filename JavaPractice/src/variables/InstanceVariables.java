@@ -9,7 +9,7 @@ public class InstanceVariables {
 	   private double salary;
 	   //age
 	   public int age;
-
+//new Comment
 	   // The name variable is assigned in the constructor.
 	   public InstanceVariables (String empName) {
 	      name = empName;
